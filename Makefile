@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 0
 SUBLEVEL = 31
-EXTRAVERSION = Minimum_kernel
+EXTRAVERSION = _Minimum_Kernel
 NAME = Sneaky Weasel
 
 # *DOCUMENTATION*
